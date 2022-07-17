@@ -16,7 +16,9 @@ function Screen1() {
 
   const {acceptedFiles, getRootProps, getInputProps, isDragActive} = useDropzone();
 
+  const handleChangeStatus = ({ meta, file }, status) => { console.log(status, meta, file) }
 
+   
   acceptedFiles.forEach((file) => {
   const reader = new FileReader();
 
@@ -76,7 +78,16 @@ function Screen1() {
 
 })
 
- 
+function loadingData(){
+
+  if(nr!=null && aperture!=null && focusDistance!=null){
+
+  console.log(nr + aperture + focusDistance)
+  return(<header>akjdfoksdnkjgasnhkjdshnagskjzhnsdkj</header>)
+
+  }
+
+}
 
   return (
     <div className="screen1">
@@ -92,9 +103,8 @@ function Screen1() {
             Drag and drop the files of a sequence to extract the metadata
           </p>
         )}
-        
+
         </div>
-        
 
 
     </div>

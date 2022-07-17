@@ -1,0 +1,103 @@
+
+file A013C007_210415_R1U4.026.exr:
+
+file format version: 2, flags 0x0
+acesImageContainerFlag (type int): 1
+adoptedNeutral (type v2f): (0.32168 0.33767)
+aperture (type float): 11.5594
+cameraFirmwareVersion (type string): "26107"
+cameraIdentifier (type string): "ARRI-ARRI_ALEXA_Mini-SN_R1U4"
+cameraLabel (type string): "A"
+cameraMake (type string): "ARRI"
+cameraModel (type string): "ARRI ALEXA Mini"
+cameraSerialNumber (type string): "22380"
+capDate (type string): "2021-04-15 14:42:38"
+captureRate (type rational): 24000/1000 (24)
+channels (type chlist):
+    B, 16-bit floating-point, sampling 1 1
+    G, 16-bit floating-point, sampling 1 1
+    R, 16-bit floating-point, sampling 1 1
+chromaticities (type chromaticities):
+    red   (0.7347 0.2653)
+    green (0 1)
+    blue  (0.0001 -0.077)
+    white (0.32168 0.33767)
+com.arri.camera.AmcVersion (type int): 0
+com.arri.camera.ArriUuid (type string): "4C07DD09-E9A2-497E-A489-52B596D00361"
+com.arri.camera.BayerColorOrder (type string): "BGGR"
+com.arri.camera.ColorGamma (type string): "LinNative"
+com.arri.camera.ColorVersion (type int): 5
+com.arri.camera.Dst (type float): 0
+com.arri.camera.ExrMapVersion (type int): 1
+com.arri.camera.FrmLnFilename1 (type string): "None"
+com.arri.camera.HardwareVersion (type int): -1
+com.arri.camera.ImageOrient (type string): "No flip"
+com.arri.camera.LdsEncFocusMax (type int): 65535
+com.arri.camera.LdsEncFocusMin (type int): 65535
+com.arri.camera.LdsEncFocusRaw (type int): 0
+com.arri.camera.LdsEncIrisMax (type int): 65535
+com.arri.camera.LdsEncIrisMin (type int): 65535
+com.arri.camera.LdsEncIrisRaw (type int): 0
+com.arri.camera.LdsEncZoomMax (type int): 65535
+com.arri.camera.LdsEncZoomMin (type int): 65535
+com.arri.camera.LdsEncZoomRaw (type int): 0
+com.arri.camera.LdsLagType (type string): "UNKNOWN"
+com.arri.camera.LdsLagValue (type int): 255
+com.arri.camera.LensLinearIris (type float): 8.062
+com.arri.camera.LensType (type string): "Compact Prime CP.3 21/T2.9"
+com.arri.camera.LookCdlMode (type string): "CDL LogC"
+com.arri.camera.LookCdlOffset (type v3f): (0 0 0)
+com.arri.camera.LookCdlPower (type v3f): (1 1 1)
+com.arri.camera.LookCdlSlope (type v3f): (1 1 1)
+com.arri.camera.LookFileName (type string): "ARRI 709"
+com.arri.camera.LookLiveGrading (type string): "Unchanged"
+com.arri.camera.LookLutMode (type string): "3D Look LUT"
+com.arri.camera.LookPrintLight (type v3f): (0 0 0)
+com.arri.camera.LookSaturation (type float): 1
+com.arri.camera.Nr.Applied (type int): 0
+com.arri.camera.Nr.Strength (type float): 0
+com.arri.camera.Operator (type string): ""
+com.arri.camera.Roll (type float): 1.3
+com.arri.camera.Sharpness (type float): 100
+com.arri.camera.SmpteUuid (type string): "060A2B340101010501010D43130000004C07DD09E9A2497EA48952B596D00361"
+com.arri.camera.SupVersion (type string): "5.03.23"
+com.arri.camera.Tilt (type float): 1.5
+com.arri.camera.TimeBase (type float): 24
+com.arri.camera.UnitPref (type string): "Imperial"
+com.arri.camera.UserInfo1 (type string): ""
+com.arri.camera.UserInfo2 (type string): ""
+com.arri.camera.Variframe (type int): 0
+com.arri.camera.WbFactor (type v3f): (1.68685 1 1.38522)
+com.arri.camera.WbTintCc (type int): 0
+comments (type string): "ARC_GUI_4.1.1.0_ARRIRAW_SDK_Version_6.1.1.0"
+compression (type compression): piz
+dataWindow (type box2i): (0 0) - (1711 1100)
+displayWindow (type box2i): (0 0) - (1711 1100)
+expTime (type float): 0.020833
+focalLength (type float): 21
+focus (type float): 7.83598
+framesPerSecond (type rational): 24000/1000 (24)
+imageCounter (type int): 1272563
+imageRotation (type float): 0
+interim.camera.shutterAngle (type float): 180
+interim.camera.wbKelvin (type int): 5600
+interim.clip.cameraClipName (type string): "A013C007_210415_R1U4"
+interim.clip.location (type string): ""
+isoSpeed (type float): 1600
+lensModel (type string): "Compact Prime CP.3 21/T2.9"
+lensSerialNumber (type string): "50080233"
+lineOrder (type lineOrder): increasing y
+originalImageFlag (type int): 1
+pixelAspectRatio (type float): 1
+reelName (type string): "A013R1U4"
+screenWindowCenter (type v2f): (0 0)
+screenWindowWidth (type float): 1
+timeCode (type timecode):
+    time 14:43:43:11
+    drop frame 0, color frame 0, field/phase 0
+    bgf0 0, bgf1 0, bgf2 0
+    user data 0x0
+timecodeRate (type int): 24
+type (type string): "scanlineimage"
+utcOffset (type float): 7200
+
