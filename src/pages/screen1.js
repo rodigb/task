@@ -20,6 +20,19 @@ function Screen1() {
 
 
   
+
+  const files = acceptedFiles.map(file => (
+
+
+
+    nr = file.name,
+    nr = nr.split("."),
+    nr = nr[1],
+    console.log(nr)
+
+  ));
+
+
  
 
 
