@@ -3,6 +3,7 @@
     justify-content: center;
     width:100%;
     height: 100%;
+    overflow:auto;
 }
 
 .dropzone{
@@ -16,5 +17,8 @@
     display: flex;
     justify-content: center;
     text-align: center;
+    overflow:auto;
 }
 
+
+ 
